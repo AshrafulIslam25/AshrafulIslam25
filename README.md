@@ -2,12 +2,12 @@
 # 👋 Hi, I'm Ashraful Islam
 
 - **Current Role:** C# .NET Software Developer Intern @ Gainwell Technologies LLC
-<!--
+
 - **Languages:** Java, Python, C/C++, C#, SQL, JavaScript/TypeScript, HTML, CSS/Tailwind CSS, Prolog/s(CASP)
 - **Frameworks/Libraries:** React.js, Next.js, Node.js, Material-UI, .NET
 - **Databases:** MySQL, MSSQL, SQL Server Management Studio, Google Firebase
 - **Developer Tools:** Git, GitHub, Azure Storage Explorer, Vercel, Clerk API, AI APIs, Visual Studio/VS Code, Linux, PuTTY, WSL:Ubuntu, Xcode
--->
+
 > As a software developer in healthcare IT, I aspire to utilize my talents to benefit society through my leadership, service, and innovative IT solutions.
 
 - [LinkedIn](https://www.linkedin.com/in/ashraful-islam-cs/)
