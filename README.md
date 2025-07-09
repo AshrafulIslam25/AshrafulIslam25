@@ -1,5 +1,5 @@
 <!-- ## Hi there 👋 -->
-# 👋 Hi, I'm Ashraful Islam
+# 👋 Greetings, I'm Ashraful Islam
 
 - **Current Role:** C# .NET Software Developer Intern @ Gainwell Technologies LLC
 - Working on Texas and Ohio Vue360Rx web PBM apps
