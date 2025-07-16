@@ -3,7 +3,7 @@
 
 - **Current Role:** C# .NET Software Developer Intern @ Gainwell Technologies LLC
 - Working on Texas and Ohio Vue360Rx web PBM apps
-- Also working on a cross-functional project for log reports on changes to production and securty risk audits
+- Also working on a cross-functional team project for log reports on changes to production and securty risk audits
 <!--
 - **Languages:** Java, Python, C/C++, C#, SQL, JavaScript/TypeScript, HTML, CSS/Tailwind CSS, Prolog/s(CASP)
 - **Frameworks/Libraries:** React.js, Next.js, Node.js, Material-UI, .NET
@@ -15,7 +15,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/ashraful-islam-cs/)
 - [Personal GitHub](https://github.com/AI01010)
-- [TEAM SharePoint](https://mygainwell.sharepoint.com/:f:/r/teams/gt-itsec/iam/team/Shared%20Documents/8%20Operations/SAP%20Governance/SAP%20Readiness%20Initiative/SOC1%20Team?csf=1&web=1&e=wTONBO)
+- [Team SharePoint](https://mygainwell.sharepoint.com/:f:/r/teams/gt-itsec/iam/team/Shared%20Documents/8%20Operations/SAP%20Governance/SAP%20Readiness%20Initiative/SOC1%20Team?csf=1&web=1&e=wTONBO)
 
 ---
 *New to Gainwell Technologies, excited to contribute and grow!*
