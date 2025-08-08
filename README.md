@@ -1,9 +1,9 @@
 <!-- ## Hi there 👋 -->
 # 👋 Greetings, I'm Ashraful Islam
 
-- **Current Role:** C# .NET Software Developer Intern @ Gainwell Technologies LLC
-- Working on Texas and Ohio Vue360Rx Web PBM applications
-- Also working on a cross-functional team project for SOC1 and SAP power BI dashboards
+- C# .NET Software Developer Intern Summer 2025 @ Gainwell Technologies LLC 
+- Worked on Texas and Ohio Vue360Rx Web PBM applications, testing, and documentation
+- Worked on a cross-functional team project for SOC1 and SAP power BI dashboards (Won 1st place!)
 <!--
 - **Languages:** Java, Python, C/C++, C#, SQL, JavaScript/TypeScript, HTML, CSS/Tailwind CSS, Prolog/s(CASP)
 - **Frameworks/Libraries:** React.js, Next.js, Node.js, Material-UI, .NET
